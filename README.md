@@ -1,4 +1,4 @@
-# Serverless Travel App
+# NPM package search
 
 ## Generel info
 
